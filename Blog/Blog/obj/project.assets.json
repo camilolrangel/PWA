@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Camilo\\PWA - Aula 1\\Blog\\Blog\\Blog.csproj",
+      "projectUniqueName": "E:\\PWA - Leonardo\\PWA\\Blog\\Blog\\Blog.csproj",
       "projectName": "Blog",
-      "projectPath": "D:\\Camilo\\PWA - Aula 1\\Blog\\Blog\\Blog.csproj",
+      "projectPath": "E:\\PWA - Leonardo\\PWA\\Blog\\Blog\\Blog.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "D:\\Camilo\\PWA - Aula 1\\Blog\\Blog\\obj\\",
+      "outputPath": "E:\\PWA - Leonardo\\PWA\\Blog\\Blog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
